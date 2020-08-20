@@ -1,0 +1,365 @@
+2020-08-05T01:49:50.503Z - info:   [18900] *** FOLDER: f:\Team Foundation Projects\Others\React\reactproj ***
+2020-08-05T01:49:50.505Z - info:   [18900] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-05T01:49:50.505Z - debug:  [18900] Looking for an External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-05T01:49:50.505Z - debug:  [18900] No External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-05T01:49:50.506Z - debug:  [18900] Looking for TFVC repository at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-05T01:49:50.507Z - debug:  [18900] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-05T01:49:50.507Z - debug:  [18900] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-05T01:49:50.507Z - debug:  [18900] TFVC Retrieved from settings; localPath='D:\Installed Applications\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-05T01:49:50.508Z - debug:  [18900] TFVC Repository created with repositoryRootFolder='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-05T01:49:50.508Z - debug:  [18900] TFVC Repository.CheckVersion
+2020-08-05T01:49:50.509Z - debug:  [18900] TFVC: tf add -noprompt -?
+2020-08-05T01:49:50.626Z - debug:  [18900] TFVC: spawned new process (duration: 117ms)
+2020-08-05T01:49:50.633Z - debug:  [18900] TFVC: spawned new process (duration: 7ms)
+2020-08-05T01:49:52.240Z - debug:  [18900] TFVC: add exit code: 0 (duration: 1731ms)
+2020-08-05T01:49:52.241Z - debug:  [18900] TFVC Minimum required version: 14.102.0
+2020-08-05T01:49:52.241Z - debug:  [18900] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-05T01:49:52.241Z - debug:  [18900] TFVC Repository.FindWorkspace with localPath='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-05T01:49:52.242Z - debug:  [18900] TFVC: tf workfold -noprompt f:\Team Foundation Projects\Others\React\reactproj
+2020-08-05T01:49:52.246Z - debug:  [18900] TFVC: spawned new process (duration: 4ms)
+2020-08-05T01:49:53.165Z - debug:  [18900] TFVC: workfold exit code: 100 (duration: 923ms)
+2020-08-05T01:49:53.166Z - debug:  [18900] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2020-08-05T01:49:53.167Z - error:  [18900] Execution of the TFVC command line failed unexpectedly.
+2020-08-05T02:07:59.571Z - info:   [01348] *** FOLDER: f:\Team Foundation Projects\Others\React\reactproj ***
+2020-08-05T02:07:59.572Z - info:   [01348] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-05T02:07:59.572Z - debug:  [01348] Looking for an External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-05T02:07:59.572Z - debug:  [01348] No External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-05T02:07:59.574Z - debug:  [01348] Looking for TFVC repository at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-05T02:07:59.574Z - debug:  [01348] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-05T02:07:59.575Z - debug:  [01348] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-05T02:07:59.575Z - debug:  [01348] TFVC Retrieved from settings; localPath='D:\Installed Applications\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-05T02:07:59.678Z - debug:  [01348] TFVC Repository created with repositoryRootFolder='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-05T02:07:59.679Z - debug:  [01348] TFVC Repository.CheckVersion
+2020-08-05T02:07:59.679Z - debug:  [01348] TFVC: tf add -noprompt -?
+2020-08-05T02:07:59.829Z - debug:  [01348] TFVC: spawned new process (duration: 149ms)
+2020-08-05T02:07:59.833Z - debug:  [01348] TFVC: spawned new process (duration: 4ms)
+2020-08-05T02:08:02.292Z - debug:  [01348] TFVC: add exit code: 0 (duration: 2612ms)
+2020-08-05T02:08:02.295Z - debug:  [01348] TFVC Minimum required version: 14.102.0
+2020-08-05T02:08:02.295Z - debug:  [01348] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-05T02:08:02.296Z - debug:  [01348] TFVC Repository.FindWorkspace with localPath='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-05T02:08:02.297Z - debug:  [01348] TFVC: tf workfold -noprompt f:\Team Foundation Projects\Others\React\reactproj
+2020-08-05T02:08:02.301Z - debug:  [01348] TFVC: spawned new process (duration: 4ms)
+2020-08-05T02:08:04.012Z - debug:  [01348] TFVC: workfold exit code: 100 (duration: 1715ms)
+2020-08-05T02:08:04.014Z - debug:  [01348] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2020-08-05T02:08:04.015Z - error:  [01348] Execution of the TFVC command line failed unexpectedly.
+2020-08-06T00:18:31.794Z - info:   [07236] *** FOLDER: f:\Team Foundation Projects\Others\React\reactproj ***
+2020-08-06T00:18:31.796Z - info:   [07236] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-06T00:18:31.796Z - debug:  [07236] Looking for an External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-06T00:18:31.797Z - debug:  [07236] No External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-06T00:18:31.798Z - debug:  [07236] Looking for TFVC repository at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-06T00:18:31.798Z - debug:  [07236] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-06T00:18:31.798Z - debug:  [07236] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-06T00:18:31.799Z - debug:  [07236] TFVC Retrieved from settings; localPath='D:\Installed Applications\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-06T00:18:31.799Z - debug:  [07236] TFVC Repository created with repositoryRootFolder='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-06T00:18:31.800Z - debug:  [07236] TFVC Repository.CheckVersion
+2020-08-06T00:18:31.800Z - debug:  [07236] TFVC: tf add -noprompt -?
+2020-08-06T00:18:31.992Z - debug:  [07236] TFVC: spawned new process (duration: 191ms)
+2020-08-06T00:18:31.998Z - debug:  [07236] TFVC: spawned new process (duration: 5ms)
+2020-08-06T00:18:34.974Z - debug:  [07236] TFVC: add exit code: 0 (duration: 3174ms)
+2020-08-06T00:18:34.976Z - debug:  [07236] TFVC Minimum required version: 14.102.0
+2020-08-06T00:18:34.976Z - debug:  [07236] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-06T00:18:34.976Z - debug:  [07236] TFVC Repository.FindWorkspace with localPath='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-06T00:18:34.977Z - debug:  [07236] TFVC: tf workfold -noprompt f:\Team Foundation Projects\Others\React\reactproj
+2020-08-06T00:18:34.981Z - debug:  [07236] TFVC: spawned new process (duration: 4ms)
+2020-08-06T00:18:36.492Z - debug:  [07236] TFVC: workfold exit code: 100 (duration: 1515ms)
+2020-08-06T00:18:36.495Z - debug:  [07236] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2020-08-06T00:18:36.496Z - error:  [07236] Execution of the TFVC command line failed unexpectedly.
+2020-08-06T00:18:53.403Z - debug:  [07236] Reinitializing due to onDidChangeConfiguration
+2020-08-06T00:18:53.404Z - debug:  [07236] Polling interval value (minutes): 12
+2020-08-06T00:18:53.408Z - info:   [07236] *** FOLDER: f:\Team Foundation Projects\Others\React\reactproj ***
+2020-08-06T00:18:53.408Z - info:   [07236] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-06T00:18:53.408Z - debug:  [07236] Looking for an External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-06T00:18:53.408Z - debug:  [07236] No External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-06T00:18:53.410Z - debug:  [07236] Looking for TFVC repository at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-06T00:18:53.410Z - debug:  [07236] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-06T00:18:53.412Z - debug:  [07236] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-06T00:18:53.413Z - debug:  [07236] TFVC Retrieved from settings; localPath='D:\Installed Applications\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-06T00:18:53.413Z - debug:  [07236] TFVC Repository created with repositoryRootFolder='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-06T00:18:53.416Z - debug:  [07236] TFVC Repository.CheckVersion
+2020-08-06T00:18:53.416Z - debug:  [07236] TFVC: tf add -noprompt -?
+2020-08-06T00:18:53.420Z - debug:  [07236] TFVC: spawned new process (duration: 4ms)
+2020-08-06T00:18:54.087Z - debug:  [07236] TFVC: add exit code: 0 (duration: 671ms)
+2020-08-06T00:18:54.087Z - debug:  [07236] TFVC Minimum required version: 14.102.0
+2020-08-06T00:18:54.087Z - debug:  [07236] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-06T00:18:54.088Z - debug:  [07236] TFVC Repository.FindWorkspace with localPath='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-06T00:18:54.088Z - debug:  [07236] TFVC: tf workfold -noprompt f:\Team Foundation Projects\Others\React\reactproj
+2020-08-06T00:18:54.092Z - debug:  [07236] TFVC: spawned new process (duration: 3ms)
+2020-08-06T00:18:54.431Z - debug:  [07236] TFVC: workfold exit code: 100 (duration: 343ms)
+2020-08-06T00:18:54.434Z - debug:  [07236] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2020-08-06T00:18:54.434Z - error:  [07236] Execution of the TFVC command line failed unexpectedly.
+2020-08-06T00:47:11.737Z - info:   [20164] *** FOLDER: f:\Team Foundation Projects\Others\React\reactproj ***
+2020-08-06T00:47:11.738Z - info:   [20164] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-06T00:47:11.739Z - debug:  [20164] Looking for an External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-06T00:47:11.739Z - debug:  [20164] No External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-06T00:47:11.740Z - debug:  [20164] Looking for TFVC repository at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-06T00:47:11.740Z - debug:  [20164] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-06T00:47:11.741Z - debug:  [20164] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-06T00:47:11.741Z - debug:  [20164] TFVC Retrieved from settings; localPath='D:\Installed Applications\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-06T00:47:11.741Z - debug:  [20164] TFVC Repository created with repositoryRootFolder='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-06T00:47:11.742Z - debug:  [20164] TFVC Repository.CheckVersion
+2020-08-06T00:47:11.743Z - debug:  [20164] TFVC: tf add -noprompt -?
+2020-08-06T00:47:11.748Z - debug:  [20164] TFVC: spawned new process (duration: 4ms)
+2020-08-06T00:47:11.753Z - debug:  [20164] TFVC: spawned new process (duration: 5ms)
+2020-08-06T00:47:12.374Z - debug:  [20164] TFVC: add exit code: 0 (duration: 631ms)
+2020-08-06T00:47:12.376Z - debug:  [20164] TFVC Minimum required version: 14.102.0
+2020-08-06T00:47:12.376Z - debug:  [20164] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-06T00:47:12.377Z - debug:  [20164] TFVC Repository.FindWorkspace with localPath='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-06T00:47:12.377Z - debug:  [20164] TFVC: tf workfold -noprompt f:\Team Foundation Projects\Others\React\reactproj
+2020-08-06T00:47:12.381Z - debug:  [20164] TFVC: spawned new process (duration: 3ms)
+2020-08-06T00:47:12.805Z - debug:  [20164] TFVC: workfold exit code: 100 (duration: 428ms)
+2020-08-06T00:47:12.807Z - debug:  [20164] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2020-08-06T00:47:12.807Z - error:  [20164] Execution of the TFVC command line failed unexpectedly.
+2020-08-18T03:52:46.666Z - info:   [12880] *** FOLDER: f:\Team Foundation Projects\Others\React\reactproj ***
+2020-08-18T03:52:46.667Z - info:   [12880] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-18T03:52:46.667Z - debug:  [12880] Looking for an External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-18T03:52:46.667Z - debug:  [12880] No External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-18T03:52:46.668Z - debug:  [12880] Looking for TFVC repository at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-18T03:52:46.668Z - debug:  [12880] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-18T03:52:46.669Z - debug:  [12880] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-18T03:52:46.669Z - debug:  [12880] TFVC Retrieved from settings; localPath='D:\Installed Applications\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-18T03:52:46.669Z - debug:  [12880] TFVC Repository created with repositoryRootFolder='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-18T03:52:46.670Z - debug:  [12880] TFVC Repository.CheckVersion
+2020-08-18T03:52:46.671Z - debug:  [12880] TFVC: tf add -noprompt -?
+2020-08-18T03:52:46.684Z - debug:  [12880] TFVC: spawned new process (duration: 13ms)
+2020-08-18T03:52:46.696Z - debug:  [12880] TFVC: spawned new process (duration: 12ms)
+2020-08-18T03:52:47.177Z - debug:  [12880] TFVC: add exit code: 0 (duration: 506ms)
+2020-08-18T03:52:47.178Z - debug:  [12880] TFVC Minimum required version: 14.102.0
+2020-08-18T03:52:47.178Z - debug:  [12880] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-18T03:52:47.178Z - debug:  [12880] TFVC Repository.FindWorkspace with localPath='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-18T03:52:47.179Z - debug:  [12880] TFVC: tf workfold -noprompt f:\Team Foundation Projects\Others\React\reactproj
+2020-08-18T03:52:47.187Z - debug:  [12880] TFVC: spawned new process (duration: 8ms)
+2020-08-18T03:52:47.703Z - debug:  [12880] TFVC: workfold exit code: 100 (duration: 524ms)
+2020-08-18T03:52:47.704Z - debug:  [12880] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2020-08-18T03:52:47.705Z - error:  [12880] Execution of the TFVC command line failed unexpectedly.
+2020-08-18T04:34:52.925Z - info:   [16592] *** FOLDER: f:\Team Foundation Projects\Others\React\reactproj ***
+2020-08-18T04:34:52.927Z - info:   [16592] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-18T04:34:52.927Z - debug:  [16592] Looking for an External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-18T04:34:52.928Z - debug:  [16592] No External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-18T04:34:52.929Z - debug:  [16592] Looking for TFVC repository at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-18T04:34:52.930Z - debug:  [16592] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-18T04:34:52.931Z - debug:  [16592] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-18T04:34:52.931Z - debug:  [16592] TFVC Retrieved from settings; localPath='D:\Installed Applications\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-18T04:34:52.932Z - debug:  [16592] TFVC Repository created with repositoryRootFolder='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-18T04:34:52.933Z - debug:  [16592] TFVC Repository.CheckVersion
+2020-08-18T04:34:52.934Z - debug:  [16592] TFVC: tf add -noprompt -?
+2020-08-18T04:34:52.945Z - debug:  [16592] TFVC: spawned new process (duration: 10ms)
+2020-08-18T04:34:52.956Z - debug:  [16592] TFVC: spawned new process (duration: 10ms)
+2020-08-18T04:34:53.700Z - debug:  [16592] TFVC: add exit code: 0 (duration: 766ms)
+2020-08-18T04:34:53.702Z - debug:  [16592] TFVC Minimum required version: 14.102.0
+2020-08-18T04:34:53.702Z - debug:  [16592] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-18T04:34:53.702Z - debug:  [16592] TFVC Repository.FindWorkspace with localPath='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-18T04:34:53.703Z - debug:  [16592] TFVC: tf workfold -noprompt f:\Team Foundation Projects\Others\React\reactproj
+2020-08-18T04:34:53.714Z - debug:  [16592] TFVC: spawned new process (duration: 11ms)
+2020-08-18T04:34:54.376Z - debug:  [16592] TFVC: workfold exit code: 100 (duration: 673ms)
+2020-08-18T04:34:54.379Z - debug:  [16592] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2020-08-18T04:34:54.380Z - error:  [16592] Execution of the TFVC command line failed unexpectedly.
+2020-08-18T23:33:24.881Z - info:   [21144] *** FOLDER: f:\Team Foundation Projects\Others\React\reactproj ***
+2020-08-18T23:33:24.883Z - info:   [21144] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-18T23:33:24.883Z - debug:  [21144] Looking for an External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-18T23:33:24.884Z - debug:  [21144] No External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-18T23:33:24.885Z - debug:  [21144] Looking for TFVC repository at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-18T23:33:24.886Z - debug:  [21144] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-18T23:33:24.886Z - debug:  [21144] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-18T23:33:24.886Z - debug:  [21144] TFVC Retrieved from settings; localPath='D:\Installed Applications\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-18T23:33:24.887Z - debug:  [21144] TFVC Repository created with repositoryRootFolder='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-18T23:33:24.888Z - debug:  [21144] TFVC Repository.CheckVersion
+2020-08-18T23:33:24.889Z - debug:  [21144] TFVC: tf add -noprompt -?
+2020-08-18T23:33:25.011Z - debug:  [21144] TFVC: spawned new process (duration: 122ms)
+2020-08-18T23:33:25.015Z - debug:  [21144] TFVC: spawned new process (duration: 4ms)
+2020-08-18T23:33:25.686Z - debug:  [21144] TFVC: add exit code: 0 (duration: 797ms)
+2020-08-18T23:33:25.687Z - debug:  [21144] TFVC Minimum required version: 14.102.0
+2020-08-18T23:33:25.687Z - debug:  [21144] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-18T23:33:25.688Z - debug:  [21144] TFVC Repository.FindWorkspace with localPath='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-18T23:33:25.688Z - debug:  [21144] TFVC: tf workfold -noprompt f:\Team Foundation Projects\Others\React\reactproj
+2020-08-18T23:33:25.693Z - debug:  [21144] TFVC: spawned new process (duration: 3ms)
+2020-08-18T23:33:26.288Z - debug:  [21144] TFVC: workfold exit code: 100 (duration: 599ms)
+2020-08-18T23:33:26.289Z - debug:  [21144] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2020-08-18T23:33:26.290Z - error:  [21144] Execution of the TFVC command line failed unexpectedly.
+2020-08-19T04:11:43.767Z - info:   [10760] *** FOLDER: f:\Team Foundation Projects\Others\React\reactproj ***
+2020-08-19T04:11:43.769Z - info:   [10760] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-19T04:11:43.769Z - debug:  [10760] Looking for an External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-19T04:11:43.770Z - debug:  [10760] No External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-19T04:11:43.771Z - debug:  [10760] Looking for TFVC repository at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-19T04:11:43.772Z - debug:  [10760] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-19T04:11:43.773Z - debug:  [10760] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-19T04:11:43.773Z - debug:  [10760] TFVC Retrieved from settings; localPath='D:\Installed Applications\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-19T04:11:43.774Z - debug:  [10760] TFVC Repository created with repositoryRootFolder='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-19T04:11:43.774Z - debug:  [10760] TFVC Repository.CheckVersion
+2020-08-19T04:11:43.775Z - debug:  [10760] TFVC: tf add -noprompt -?
+2020-08-19T04:11:43.781Z - debug:  [10760] TFVC: spawned new process (duration: 5ms)
+2020-08-19T04:11:43.790Z - debug:  [10760] TFVC: spawned new process (duration: 8ms)
+2020-08-19T04:11:44.455Z - debug:  [10760] TFVC: add exit code: 0 (duration: 679ms)
+2020-08-19T04:11:44.456Z - debug:  [10760] TFVC Minimum required version: 14.102.0
+2020-08-19T04:11:44.457Z - debug:  [10760] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-19T04:11:44.457Z - debug:  [10760] TFVC Repository.FindWorkspace with localPath='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-19T04:11:44.458Z - debug:  [10760] TFVC: tf workfold -noprompt f:\Team Foundation Projects\Others\React\reactproj
+2020-08-19T04:11:44.462Z - debug:  [10760] TFVC: spawned new process (duration: 4ms)
+2020-08-19T04:11:44.991Z - debug:  [10760] TFVC: workfold exit code: 100 (duration: 533ms)
+2020-08-19T04:11:44.994Z - debug:  [10760] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2020-08-19T04:11:44.994Z - error:  [10760] Execution of the TFVC command line failed unexpectedly.
+2020-08-19T05:55:59.264Z - info:   [16972] *** FOLDER: f:\Team Foundation Projects\Others\React\reactproj ***
+2020-08-19T05:55:59.265Z - info:   [16972] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-19T05:55:59.266Z - debug:  [16972] Looking for an External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-19T05:55:59.266Z - debug:  [16972] No External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-19T05:55:59.347Z - debug:  [16972] Looking for TFVC repository at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-19T05:55:59.347Z - debug:  [16972] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-19T05:55:59.348Z - debug:  [16972] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-19T05:55:59.348Z - debug:  [16972] TFVC Retrieved from settings; localPath='D:\Installed Applications\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-19T05:55:59.386Z - debug:  [16972] TFVC Repository created with repositoryRootFolder='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-19T05:55:59.387Z - debug:  [16972] TFVC Repository.CheckVersion
+2020-08-19T05:55:59.388Z - debug:  [16972] TFVC: tf add -noprompt -?
+2020-08-19T05:55:59.451Z - debug:  [16972] TFVC: spawned new process (duration: 62ms)
+2020-08-19T05:55:59.457Z - debug:  [16972] TFVC: spawned new process (duration: 4ms)
+2020-08-19T05:56:00.885Z - debug:  [16972] TFVC: add exit code: 0 (duration: 1497ms)
+2020-08-19T05:56:00.886Z - debug:  [16972] TFVC Minimum required version: 14.102.0
+2020-08-19T05:56:00.886Z - debug:  [16972] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-19T05:56:00.886Z - debug:  [16972] TFVC Repository.FindWorkspace with localPath='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-19T05:56:00.887Z - debug:  [16972] TFVC: tf workfold -noprompt f:\Team Foundation Projects\Others\React\reactproj
+2020-08-19T05:56:00.890Z - debug:  [16972] TFVC: spawned new process (duration: 3ms)
+2020-08-19T05:56:02.124Z - debug:  [16972] TFVC: workfold exit code: 100 (duration: 1237ms)
+2020-08-19T05:56:02.126Z - debug:  [16972] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2020-08-19T05:56:02.126Z - error:  [16972] Execution of the TFVC command line failed unexpectedly.
+2020-08-19T22:49:35.546Z - info:   [01476] *** FOLDER: f:\Team Foundation Projects\Others\React\reactproj ***
+2020-08-19T22:49:35.548Z - info:   [01476] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-19T22:49:35.548Z - debug:  [01476] Looking for an External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-19T22:49:35.549Z - debug:  [01476] No External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-19T22:49:35.550Z - debug:  [01476] Looking for TFVC repository at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-19T22:49:35.551Z - debug:  [01476] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-19T22:49:35.551Z - debug:  [01476] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-19T22:49:35.552Z - debug:  [01476] TFVC Retrieved from settings; localPath='D:\Installed Applications\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-19T22:49:35.552Z - debug:  [01476] TFVC Repository created with repositoryRootFolder='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-19T22:49:35.553Z - debug:  [01476] TFVC Repository.CheckVersion
+2020-08-19T22:49:35.554Z - debug:  [01476] TFVC: tf add -noprompt -?
+2020-08-19T22:49:35.597Z - debug:  [01476] TFVC: spawned new process (duration: 42ms)
+2020-08-19T22:49:35.600Z - debug:  [01476] TFVC: spawned new process (duration: 3ms)
+2020-08-19T22:49:36.739Z - debug:  [01476] TFVC: add exit code: 0 (duration: 1185ms)
+2020-08-19T22:49:36.740Z - debug:  [01476] TFVC Minimum required version: 14.102.0
+2020-08-19T22:49:36.741Z - debug:  [01476] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-19T22:49:36.741Z - debug:  [01476] TFVC Repository.FindWorkspace with localPath='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-19T22:49:36.742Z - debug:  [01476] TFVC: tf workfold -noprompt f:\Team Foundation Projects\Others\React\reactproj
+2020-08-19T22:49:36.747Z - debug:  [01476] TFVC: spawned new process (duration: 4ms)
+2020-08-19T22:49:37.838Z - debug:  [01476] TFVC: workfold exit code: 100 (duration: 1095ms)
+2020-08-19T22:49:37.841Z - debug:  [01476] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2020-08-19T22:49:37.842Z - error:  [01476] Execution of the TFVC command line failed unexpectedly.
+2020-08-20T01:41:39.265Z - info:   [19756] *** FOLDER: f:\Team Foundation Projects\Others\React\reactproj ***
+2020-08-20T01:41:39.266Z - info:   [19756] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-20T01:41:39.267Z - debug:  [19756] Looking for an External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T01:41:39.267Z - debug:  [19756] No External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T01:41:39.268Z - debug:  [19756] Looking for TFVC repository at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T01:41:39.268Z - debug:  [19756] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-20T01:41:39.268Z - debug:  [19756] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-20T01:41:39.268Z - debug:  [19756] TFVC Retrieved from settings; localPath='D:\Installed Applications\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-20T01:41:39.269Z - debug:  [19756] TFVC Repository created with repositoryRootFolder='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-20T01:41:39.269Z - debug:  [19756] TFVC Repository.CheckVersion
+2020-08-20T01:41:39.270Z - debug:  [19756] TFVC: tf add -noprompt -?
+2020-08-20T01:41:39.273Z - debug:  [19756] TFVC: spawned new process (duration: 3ms)
+2020-08-20T01:41:39.277Z - debug:  [19756] TFVC: spawned new process (duration: 3ms)
+2020-08-20T01:41:39.821Z - debug:  [19756] TFVC: add exit code: 0 (duration: 551ms)
+2020-08-20T01:41:39.822Z - debug:  [19756] TFVC Minimum required version: 14.102.0
+2020-08-20T01:41:39.823Z - debug:  [19756] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-20T01:41:39.823Z - debug:  [19756] TFVC Repository.FindWorkspace with localPath='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-20T01:41:39.823Z - debug:  [19756] TFVC: tf workfold -noprompt f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T01:41:39.827Z - debug:  [19756] TFVC: spawned new process (duration: 3ms)
+2020-08-20T01:41:40.302Z - debug:  [19756] TFVC: workfold exit code: 100 (duration: 478ms)
+2020-08-20T01:41:40.304Z - debug:  [19756] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2020-08-20T01:41:40.305Z - error:  [19756] Execution of the TFVC command line failed unexpectedly.
+2020-08-20T02:27:59.040Z - info:   [14252] *** FOLDER: f:\Team Foundation Projects\Others\React\reactproj ***
+2020-08-20T02:27:59.041Z - info:   [14252] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-20T02:27:59.041Z - debug:  [14252] Looking for an External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T02:27:59.041Z - debug:  [14252] No External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T02:27:59.042Z - debug:  [14252] Looking for TFVC repository at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T02:27:59.043Z - debug:  [14252] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-20T02:27:59.043Z - debug:  [14252] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-20T02:27:59.043Z - debug:  [14252] TFVC Retrieved from settings; localPath='D:\Installed Applications\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-20T02:27:59.044Z - debug:  [14252] TFVC Repository created with repositoryRootFolder='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-20T02:27:59.044Z - debug:  [14252] TFVC Repository.CheckVersion
+2020-08-20T02:27:59.045Z - debug:  [14252] TFVC: tf add -noprompt -?
+2020-08-20T02:27:59.048Z - debug:  [14252] TFVC: spawned new process (duration: 3ms)
+2020-08-20T02:27:59.052Z - debug:  [14252] TFVC: spawned new process (duration: 4ms)
+2020-08-20T02:27:59.537Z - debug:  [14252] TFVC: add exit code: 0 (duration: 492ms)
+2020-08-20T02:27:59.539Z - debug:  [14252] TFVC Minimum required version: 14.102.0
+2020-08-20T02:27:59.539Z - debug:  [14252] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-20T02:27:59.539Z - debug:  [14252] TFVC Repository.FindWorkspace with localPath='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-20T02:27:59.540Z - debug:  [14252] TFVC: tf workfold -noprompt f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T02:27:59.543Z - debug:  [14252] TFVC: spawned new process (duration: 3ms)
+2020-08-20T02:27:59.987Z - debug:  [14252] TFVC: workfold exit code: 100 (duration: 447ms)
+2020-08-20T02:27:59.990Z - debug:  [14252] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2020-08-20T02:27:59.990Z - error:  [14252] Execution of the TFVC command line failed unexpectedly.
+2020-08-20T03:20:35.384Z - info:   [14968] *** FOLDER: f:\Team Foundation Projects\Others\React\reactproj ***
+2020-08-20T03:20:35.385Z - info:   [14968] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-20T03:20:35.386Z - debug:  [14968] Looking for an External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T03:20:35.386Z - debug:  [14968] No External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T03:20:35.388Z - debug:  [14968] Looking for TFVC repository at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T03:20:35.388Z - debug:  [14968] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-20T03:20:35.389Z - debug:  [14968] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-20T03:20:35.389Z - debug:  [14968] TFVC Retrieved from settings; localPath='D:\Installed Applications\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-20T03:20:35.390Z - debug:  [14968] TFVC Repository created with repositoryRootFolder='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-20T03:20:35.390Z - debug:  [14968] TFVC Repository.CheckVersion
+2020-08-20T03:20:35.391Z - debug:  [14968] TFVC: tf add -noprompt -?
+2020-08-20T03:20:35.394Z - debug:  [14968] TFVC: spawned new process (duration: 2ms)
+2020-08-20T03:20:35.399Z - debug:  [14968] TFVC: spawned new process (duration: 4ms)
+2020-08-20T03:20:36.059Z - debug:  [14968] TFVC: add exit code: 0 (duration: 668ms)
+2020-08-20T03:20:36.060Z - debug:  [14968] TFVC Minimum required version: 14.102.0
+2020-08-20T03:20:36.061Z - debug:  [14968] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-20T03:20:36.061Z - debug:  [14968] TFVC Repository.FindWorkspace with localPath='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-20T03:20:36.062Z - debug:  [14968] TFVC: tf workfold -noprompt f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T03:20:36.066Z - debug:  [14968] TFVC: spawned new process (duration: 4ms)
+2020-08-20T03:20:36.525Z - debug:  [14968] TFVC: workfold exit code: 100 (duration: 463ms)
+2020-08-20T03:20:36.527Z - debug:  [14968] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2020-08-20T03:20:36.527Z - error:  [14968] Execution of the TFVC command line failed unexpectedly.
+2020-08-20T05:18:45.234Z - info:   [19052] *** FOLDER: f:\Team Foundation Projects\Others\React\reactproj ***
+2020-08-20T05:18:45.235Z - info:   [19052] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-20T05:18:45.236Z - debug:  [19052] Looking for an External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T05:18:45.236Z - debug:  [19052] No External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T05:18:45.237Z - debug:  [19052] Looking for TFVC repository at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T05:18:45.237Z - debug:  [19052] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-20T05:18:45.238Z - debug:  [19052] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-20T05:18:45.238Z - debug:  [19052] TFVC Retrieved from settings; localPath='D:\Installed Applications\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-20T05:18:45.238Z - debug:  [19052] TFVC Repository created with repositoryRootFolder='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-20T05:18:45.239Z - debug:  [19052] TFVC Repository.CheckVersion
+2020-08-20T05:18:45.240Z - debug:  [19052] TFVC: tf add -noprompt -?
+2020-08-20T05:18:45.244Z - debug:  [19052] TFVC: spawned new process (duration: 4ms)
+2020-08-20T05:18:45.248Z - debug:  [19052] TFVC: spawned new process (duration: 3ms)
+2020-08-20T05:18:46.028Z - debug:  [19052] TFVC: add exit code: 0 (duration: 788ms)
+2020-08-20T05:18:46.029Z - debug:  [19052] TFVC Minimum required version: 14.102.0
+2020-08-20T05:18:46.029Z - debug:  [19052] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-20T05:18:46.030Z - debug:  [19052] TFVC Repository.FindWorkspace with localPath='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-20T05:18:46.031Z - debug:  [19052] TFVC: tf workfold -noprompt f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T05:18:46.034Z - debug:  [19052] TFVC: spawned new process (duration: 3ms)
+2020-08-20T05:18:46.446Z - debug:  [19052] TFVC: workfold exit code: 100 (duration: 415ms)
+2020-08-20T05:18:46.448Z - debug:  [19052] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2020-08-20T05:18:46.449Z - error:  [19052] Execution of the TFVC command line failed unexpectedly.
+2020-08-20T06:57:34.096Z - info:   [19716] *** FOLDER: f:\Team Foundation Projects\Others\React\reactproj ***
+2020-08-20T06:57:34.098Z - info:   [19716] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-20T06:57:34.098Z - debug:  [19716] Looking for an External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T06:57:34.099Z - debug:  [19716] No External Context at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T06:57:34.104Z - debug:  [19716] Looking for TFVC repository at f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T06:57:34.104Z - debug:  [19716] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-20T06:57:34.105Z - debug:  [19716] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-20T06:57:34.105Z - debug:  [19716] TFVC Retrieved from settings; localPath='D:\Installed Applications\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-20T06:57:34.106Z - debug:  [19716] TFVC Repository created with repositoryRootFolder='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-20T06:57:34.106Z - debug:  [19716] TFVC Repository.CheckVersion
+2020-08-20T06:57:34.107Z - debug:  [19716] TFVC: tf add -noprompt -?
+2020-08-20T06:57:34.112Z - debug:  [19716] TFVC: spawned new process (duration: 5ms)
+2020-08-20T06:57:34.117Z - debug:  [19716] TFVC: spawned new process (duration: 4ms)
+2020-08-20T06:57:34.959Z - debug:  [19716] TFVC: add exit code: 0 (duration: 851ms)
+2020-08-20T06:57:34.961Z - debug:  [19716] TFVC Minimum required version: 14.102.0
+2020-08-20T06:57:34.961Z - debug:  [19716] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-20T06:57:34.961Z - debug:  [19716] TFVC Repository.FindWorkspace with localPath='f:\Team Foundation Projects\Others\React\reactproj'
+2020-08-20T06:57:34.962Z - debug:  [19716] TFVC: tf workfold -noprompt f:\Team Foundation Projects\Others\React\reactproj
+2020-08-20T06:57:34.966Z - debug:  [19716] TFVC: spawned new process (duration: 4ms)
