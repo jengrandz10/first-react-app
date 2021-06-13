@@ -1,0 +1,100 @@
+[ {
+
+  "region" : "CITY",
+
+  "scatsVersion" : "6.9.4",
+
+  "suburb" : "CITY",
+
+  "subsystem" : 2662,
+
+  "tsc" : 1,
+
+  "areaNum" : "B0001",
+
+  "coordinates" : {
+
+    "amg" : {
+
+      "zone" : 56,
+
+      "hemisphere" : "South",
+
+      "easting" : 502033,
+
+      "northing" : 6961733
+
+    },
+
+    "ubd" : {
+
+      "page" : 1,
+
+      "grid" : "Q20"
+
+    },
+
+    "latLng" : {
+
+      "latitude" : -27.467951,
+
+      "longitude" : 153.020577
+
+    }
+
+  },
+
+  "arms" : [ {
+
+    "arm" : 1,
+
+    "azimuth" : 320,
+
+    "streetName" : "GEORGE ST",
+
+    "slipLaneCount" : 0,
+
+    "leftLaneCount" : 0,
+
+    "rightLaneCount" : 3,
+
+    "nextTsc" : 71,
+
+    "detectors" : [ ]
+
+  }, {
+
+    "arm" : 2,
+
+    "azimuth" : 140,
+
+    "streetName" : "GEORGE ST",
+
+    "slipLaneCount" : 0,
+
+    "leftLaneCount" : 3,
+
+    "rightLaneCount" : 0,
+
+    "nextTsc" : 72,
+
+    "detectors" : [ ]
+
+  }, {
+
+    "arm" : 3,
+
+    "azimuth" : 230,
+
+    "streetName" : "TANK ST",
+
+    "slipLaneCount" : 0,
+
+    "leftLaneCount" : 2,
+
+    "rightLaneCount" : 1,
+
+    "detectors" : [ ]
+
+  } ]
+  }]
